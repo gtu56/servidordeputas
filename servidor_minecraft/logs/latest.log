@@ -6571,3 +6571,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 06:14:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Isn't It Iron Pick]
 [27Jul2025 06:14:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 1 [Iron Pickaxe] to Ihlak]
 [27Jul2025 06:14:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Book of Monsters]
+[27Jul2025 06:18:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Rotten to the Core]
+[27Jul2025 06:23:46.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set the time to 1000]
+[27Jul2025 06:24:22.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[27Jul2025 06:24:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -818.500000, 71.500000, 874.500000]
+[27Jul2025 06:26:37.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1242.500000, 83.500000, 873.500000]
