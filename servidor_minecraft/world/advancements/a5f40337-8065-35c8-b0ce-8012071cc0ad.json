@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-27 05:29:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-27 04:34:29 +0000"
@@ -277,6 +283,16 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-07-27 05:30:45 +0000",
+      "onion": "2025-07-27 05:30:38 +0000",
+      "tomato": "2025-07-27 05:30:50 +0000",
+      "potato": "2025-07-27 05:30:31 +0000",
+      "wheat": "2025-07-27 05:31:06 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-27 04:58:22 +0000"
@@ -406,6 +422,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 05:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-27 04:50:15 +0000"
@@ -498,6 +520,12 @@
   "vs_eureka:recipes/balloon_leather": {
     "criteria": {
       "has_leather": "2025-07-27 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-27 05:26:56 +0000"
     },
     "done": true
   },
@@ -715,6 +743,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-27 04:41:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 05:29:10 +0000"
     },
     "done": true
   },
@@ -1021,6 +1055,12 @@
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-07-27 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-27 05:29:10 +0000"
     },
     "done": true
   },
@@ -1379,6 +1419,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 05:29:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 04:33:43 +0000"
@@ -1412,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-27 05:31:06 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/compressor": {
     "criteria": {
       "has_compressor": "2025-07-27 04:33:43 +0000"
@@ -1440,6 +1492,12 @@
     "criteria": {
       "has_fishing_rod": "2025-07-27 04:27:35 +0000",
       "has_fillet_knife": "2025-07-27 04:27:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-27 05:29:10 +0000"
     },
     "done": true
   },
