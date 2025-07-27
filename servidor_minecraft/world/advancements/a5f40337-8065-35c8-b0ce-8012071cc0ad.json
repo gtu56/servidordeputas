@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 06:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-07-27 06:14:58 +0000"
@@ -559,6 +565,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-27 06:28:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 04:33:43 +0000"
@@ -606,6 +618,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-27 06:26:19 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-07-27 04:27:35 +0000"
@@ -627,6 +645,12 @@
   "spartanweaponry:recipes/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-07-27 04:50:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2025-07-27 06:28:35 +0000"
     },
     "done": true
   },
@@ -1299,6 +1323,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 06:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 04:33:43 +0000"
@@ -1362,6 +1392,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-07-27 04:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 06:27:02 +0000"
     },
     "done": true
   },
@@ -1620,6 +1656,12 @@
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
       "has_wood": "2025-07-27 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-27 06:26:19 +0000"
     },
     "done": true
   },
@@ -1902,6 +1944,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-07-27 06:27:44 +0000"
     },
     "done": true
   },
@@ -2284,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-27 06:26:19 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-07-27 06:01:28 +0000"
@@ -2479,6 +2533,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-07-27 05:52:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-27 06:27:02 +0000"
     },
     "done": true
   },
