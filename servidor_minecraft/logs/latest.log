@@ -6458,3 +6458,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 04:41:12.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [27Jul2025 04:41:14.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [27Jul2025 04:41:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [A not-so-pointy Stick!]
+[27Jul2025 04:54:30.350] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
