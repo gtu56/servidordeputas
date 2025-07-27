@@ -289,7 +289,8 @@
       "onion": "2025-07-27 05:30:38 +0000",
       "tomato": "2025-07-27 05:30:50 +0000",
       "potato": "2025-07-27 05:30:31 +0000",
-      "wheat": "2025-07-27 05:31:06 +0000"
+      "wheat": "2025-07-27 05:31:06 +0000",
+      "carrot": "2025-07-27 05:31:16 +0000"
     },
     "done": false
   },
@@ -953,6 +954,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-27 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-27 05:40:12 +0000"
     },
     "done": true
   },
