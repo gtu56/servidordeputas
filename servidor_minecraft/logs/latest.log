@@ -6460,3 +6460,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 04:41:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [A not-so-pointy Stick!]
 [27Jul2025 04:54:30.350] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [27Jul2025 05:02:59.862] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[27Jul2025 05:11:53.875] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 1027 blocks, out of 32768 allowed
+[27Jul2025 05:11:54.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/fasterxml/jackson/databind/annotation/JsonSerialize$Typing
+[27Jul2025 05:11:54.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/fasterxml/jackson/databind/annotation/JsonSerialize$Inclusion
+[27Jul2025 05:11:54.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/valkyrienskies/core/impl/shadow/M
+[27Jul2025 05:11:56.909] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8669943650000006E7, 227.36414434412922, -11.800000011920929] -> [10.5, 242.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
