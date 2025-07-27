@@ -6558,3 +6558,16 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 05:56:33.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Hunt and Gather]
 [27Jul2025 06:00:49.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -309.500000, 73.500000, 363.500000]
 [27Jul2025 06:05:16.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[27Jul2025 06:10:33.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak fell from a high place
+[27Jul2025 06:10:33.786] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_27.07.2025-06.10.33.dat
+[27Jul2025 06:10:47.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -316.500000, 69.500000, 346.500000]
+[27Jul2025 06:10:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[27Jul2025 06:12:21.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gamerule keepInventory is now set to: true]
+[27Jul2025 06:12:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -584.500000, 68.500000, 800.500000]
+[27Jul2025 06:12:54.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set the time to 1000]
+[27Jul2025 06:12:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[27Jul2025 06:13:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 1 [Iron Axe] to Ihlak]
+[27Jul2025 06:14:06.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Would you Like to Know More?]
+[27Jul2025 06:14:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Isn't It Iron Pick]
+[27Jul2025 06:14:18.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 1 [Iron Pickaxe] to Ihlak]
+[27Jul2025 06:14:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Book of Monsters]
