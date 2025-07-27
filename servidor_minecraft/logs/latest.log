@@ -1582,3 +1582,6 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 17:04:39.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Jul2025 17:04:40.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Jul2025 17:04:43.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jul2025 17:05:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1293.500000, 65.500000, 914.500000]
+[27Jul2025 17:06:03.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ihlak lost connection: Disconnected
+[27Jul2025 17:06:03.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak left the game
