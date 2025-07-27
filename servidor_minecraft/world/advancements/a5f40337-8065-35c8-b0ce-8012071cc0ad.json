@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-27 06:18:58 +0000"
@@ -311,6 +317,12 @@
       "has_cod": "2025-07-27 06:14:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
@@ -630,6 +642,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/silver_glaive": {
     "criteria": {
       "has_silver_ingot": "2025-07-27 05:49:41 +0000"
@@ -932,6 +950,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-27 04:54:48 +0000"
@@ -1155,11 +1179,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-07-27 05:56:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
@@ -1425,6 +1461,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-07-27 05:52:36 +0000"
@@ -1652,6 +1694,12 @@
       "has_iron_ingot": "2025-07-27 04:33:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
@@ -1923,6 +1971,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-07-27 05:52:36 +0000"
@@ -2012,6 +2066,12 @@
       "in_water": "2025-07-27 04:31:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_katana": {
     "criteria": {
@@ -2156,6 +2216,12 @@
       "has_planks": "2025-07-27 04:50:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
@@ -2318,6 +2384,12 @@
       "has_iron": "2025-07-27 04:33:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 06:43:10 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
