@@ -1485,3 +1485,36 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [27Jul2025 16:22:34.195] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [27Jul2025 16:22:46.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [27Jul2025 16:22:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Hot Stuff]
+[27Jul2025 16:25:40.719] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[27Jul2025 16:25:59.888] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[27Jul2025 16:26:22.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Jul2025 16:26:23.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[27Jul2025 16:28:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1182.500000, 95.500000, 2110.500000]
+[27Jul2025 16:29:13.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1644.500000, 64.500000, 2011.500000]
+[27Jul2025 16:30:04.712] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 765.5 μs. 256/264 recipes are parallelized.
+[27Jul2025 16:31:18.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[27Jul2025 16:32:11.125] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 91.67 μs. 85/135 recipes are parallelized.
+[27Jul2025 16:33:00.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[27Jul2025 16:33:03.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10033, l='ServerLevel[world]', x=-1736.12, y=65.23, z=2335.75] died, message: 'Unemployed was slain by Fire Dragon'
+[27Jul2025 16:33:04.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[27Jul2025 16:33:45.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9896, l='ServerLevel[world]', x=-1705.72, y=66.71, z=2175.97]
+[27Jul2025 16:33:45.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9899, l='ServerLevel[world]', x=-1702.39, y=65.85, z=2175.76]
+[27Jul2025 16:33:45.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9901, l='ServerLevel[world]', x=-1704.01, y=65.85, z=2175.74]
+[27Jul2025 16:33:45.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9904, l='ServerLevel[world]', x=-1703.27, y=66.00, z=2175.85]
+[27Jul2025 16:33:45.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9905, l='ServerLevel[world]', x=-1700.17, y=65.71, z=2175.81]
+[27Jul2025 16:33:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[27Jul2025 16:34:12.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/10411, l='ServerLevel[world]', x=-1781.20, y=62.94, z=2391.49] died, message: 'Scribe burned to death'
+[27Jul2025 16:35:03.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10262, l='ServerLevel[world]', x=-1781.50, y=63.00, z=2397.24] died, message: 'Unemployed was slain by Fire Dragon'
+[27Jul2025 16:35:18.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[27Jul2025 16:35:24.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10058, l='ServerLevel[world]', x=-1805.29, y=63.05, z=2405.30] died, message: 'Unemployed was slain by Fire Dragon'
+[27Jul2025 16:35:47.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/10539, l='ServerLevel[world]', x=-1798.17, y=65.69, z=2395.17] died, message: 'Scribe was slain by Fire Dragon'
+[27Jul2025 16:35:50.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10260, l='ServerLevel[world]', x=-1798.43, y=62.94, z=2399.40] died, message: 'Unemployed was slain by Fire Dragon'
+[27Jul2025 16:35:54.474] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10540, l='ServerLevel[world]', x=-1797.95, y=65.69, z=2396.72] died, message: 'Farmer was slain by Fire Dragon'
+[27Jul2025 16:36:22.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/10412, l='ServerLevel[world]', x=-1777.83, y=65.69, z=2402.90] died, message: 'Scribe was slain by Fire Dragon'
+[27Jul2025 16:36:26.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[27Jul2025 16:36:32.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10165, l='ServerLevel[world]', x=-1791.49, y=62.94, z=2393.23] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[27Jul2025 16:36:40.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10061, l='ServerLevel[world]', x=-1785.39, y=67.69, z=2410.61] died, message: 'Unemployed was slain by Fire Dragon'
+[27Jul2025 16:37:07.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10167, l='ServerLevel[world]', x=-1795.62, y=63.00, z=2385.50] died, message: 'Unemployed was incinerated by Fire Dragon'
+[27Jul2025 16:37:12.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/10164, l='ServerLevel[world]', x=-1799.65, y=65.63, z=2404.01] died, message: 'Scribe was slain by Fire Dragon'
+[27Jul2025 16:37:16.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10400, l='ServerLevel[world]', x=-1803.48, y=63.00, z=2404.70] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[27Jul2025 16:38:02.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
