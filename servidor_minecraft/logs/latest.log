@@ -1550,3 +1550,10 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 22:35:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Surfer Rosa]
 [03Aug2025 22:37:00.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [03Aug2025 22:37:00.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[03Aug2025 22:38:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 22:38:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 22:38:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Isn't It Iron Pick]
+[03Aug2025 22:39:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:41:05.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:41:57.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/15000, l='ServerLevel[world]', x=-643.42, y=113.00, z=2922.70] died, message: 'Scribe was slain by Zombie'
+[03Aug2025 22:46:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]

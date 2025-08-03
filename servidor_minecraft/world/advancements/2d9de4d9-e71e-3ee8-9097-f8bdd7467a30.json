@@ -1,4 +1,10 @@
 {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 22:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-03 22:13:58 +0000"
@@ -20,6 +26,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-08-03 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 22:39:06 +0000"
     },
     "done": true
   },
@@ -47,6 +59,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 22:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-03 22:37:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-08-03 22:04:59 +0000"
@@ -71,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-03 22:37:11 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-08-03 22:04:59 +0000"
@@ -86,6 +116,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-08-03 22:13:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
     },
     "done": true
   },
@@ -111,6 +147,12 @@
     "criteria": {
       "has_fishing_rod": "2025-08-03 21:54:49 +0000",
       "has_fillet_knife": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-03 22:34:21 +0000"
     },
     "done": true
   },
@@ -154,6 +196,12 @@
     "criteria": {
       "has_fishing_rod": "2025-08-03 21:54:49 +0000",
       "has_fillet_knife": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-03 22:43:11 +0000"
     },
     "done": true
   },
@@ -218,6 +266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-03 22:43:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-08-03 22:04:59 +0000"
@@ -233,6 +287,12 @@
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-08-03 22:04:59 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
     },
     "done": true
   },
@@ -270,6 +330,18 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-08-03 22:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-03 22:37:11 +0000"
     },
     "done": true
   },
@@ -315,6 +387,12 @@
       "has_brown_balloon": "2025-08-03 21:54:49 +0000",
       "has_green_balloon": "2025-08-03 21:54:49 +0000",
       "has_magenta_balloon": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-03 22:37:11 +0000"
     },
     "done": true
   },
@@ -552,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-08-03 21:54:50 +0000"
@@ -600,9 +684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-03 22:37:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-08-03 22:06:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-03 22:37:31 +0000"
     },
     "done": true
   },
@@ -666,6 +762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-03 22:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-03 22:04:59 +0000"
@@ -714,6 +822,24 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-08-03 22:37:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-03 22:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-03 22:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-08-03 22:30:27 +0000"
@@ -756,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-03 22:42:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2025-08-03 22:04:59 +0000"
@@ -786,6 +918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 22:43:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
       "has_stick": "2025-08-03 22:13:58 +0000"
@@ -804,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-03 22:37:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-08-03 22:05:45 +0000"
@@ -819,6 +963,12 @@
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-08-03 22:10:35 +0000"
+    },
+    "done": true
+  },
+  "pirates:recipes/combat/cannonball": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
     },
     "done": true
   },
@@ -870,6 +1020,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
       "has_arrow": "2025-08-03 22:17:23 +0000"
@@ -888,9 +1044,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-03 22:41:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-03 22:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
     },
     "done": true
   },
@@ -930,6 +1104,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-03 22:04:59 +0000"
@@ -960,6 +1140,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-08-03 21:54:50 +0000"
@@ -975,6 +1161,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-08-03 22:17:26 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
     },
     "done": true
   },
@@ -1027,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-03 22:41:17 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-08-03 22:06:00 +0000"
@@ -1075,9 +1273,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-03 22:37:55 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-08-03 22:37:55 +0000"
     },
     "done": true
   },
@@ -1117,9 +1327,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-03 22:37:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-03 22:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-03 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
     },
     "done": true
   },
@@ -1147,6 +1375,7 @@
       "minecraft:sunflower_plains": "2025-08-03 22:08:54 +0000",
       "minecraft:birch_forest": "2025-08-03 22:07:39 +0000",
       "minecraft:beach": "2025-08-03 22:08:13 +0000",
+      "minecraft:dark_forest": "2025-08-03 22:36:59 +0000",
       "minecraft:river": "2025-08-03 22:05:59 +0000",
       "minecraft:grove": "2025-08-03 22:26:43 +0000",
       "minecraft:jagged_peaks": "2025-08-03 22:29:11 +0000",
@@ -1177,9 +1406,27 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-03 22:43:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-08-03 22:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-08-03 22:39:06 +0000"
     },
     "done": true
   },
@@ -1205,6 +1452,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-08-03 22:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
     },
     "done": true
   },
@@ -1239,9 +1492,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-03 22:37:14 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
     "criteria": {
       "has_items": "2025-08-03 21:54:49 +0000"
+    },
+    "done": true
+  },
+  "pirates:recipes/redstone/cannon_priming_block": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 22:37:28 +0000"
     },
     "done": true
   },
