@@ -2640,6 +2640,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-28 02:53:53 +0000",
+      "cooked_cod": "2025-08-03 22:27:36 +0000",
       "bread": "2025-07-27 06:17:57 +0000",
       "golden_apple": "2025-07-28 02:57:56 +0000"
     },
@@ -4004,7 +4005,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-28 03:11:54 +0000",
-      "minecraft:spider": "2025-07-28 03:12:10 +0000"
+      "minecraft:spider": "2025-07-28 03:12:10 +0000",
+      "minecraft:zombie": "2025-08-03 22:28:24 +0000"
     },
     "done": false
   },
@@ -4323,6 +4325,30 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-03 22:05:39 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-08-03 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-03 22:16:18 +0000"
     },
     "done": true
   },

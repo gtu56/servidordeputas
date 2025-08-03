@@ -1478,3 +1478,75 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 21:54:53.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [03Aug2025 21:54:53.389] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [03Aug2025 21:55:31.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
+[03Aug2025 21:57:54.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[03Aug2025 22:01:30.503] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[03Aug2025 22:01:30.675] [Worker-Main-12/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[03Aug2025 22:01:30.845] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[03Aug2025 22:04:56.477] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.434 ms. 3934/4121 recipes are parallelized.
+[03Aug2025 22:05:30.113] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[03Aug2025 22:05:30.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[03Aug2025 22:05:39.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Not Today, Thank You]
+[03Aug2025 22:06:23.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[03Aug2025 22:07:54.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1266.500000, 63.500000, 944.500000]
+[03Aug2025 22:08:10.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:08:23.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 22:08:23.792] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-22.08.23.dat
+[03Aug2025 22:08:23.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 22:08:29.988] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 106.97193054737107, 965.1463721789397] -> [-1237.7426258461935, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:08:35.025] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 101.15355249993553, 965.1169725231804] -> [-1237.7873793622864, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:08:40.076] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 91.0545281523966, 965.0621858186998] -> [-1237.870778212921, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:08:45.078] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 86.029278203826, 965.1362813519156] -> [-1237.8731541386803, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:08:50.131] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 85.9149518502859, 965.2390449492797] -> [-1237.8284383646385, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:08:55.171] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 85.93502871063615, 965.242524777548] -> [-1237.8266818031288, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:09:00.178] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 85.95464721746184, 965.2418587123587] -> [-1237.8269416114842, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:09:05.222] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 85.97433378980317, 965.2410096324177] -> [-1237.8272914675672, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:09:10.225] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665847650000006E7, 85.99370459686803, 965.240160553822] -> [-1237.8276437275908, 190.30000001192093, 1.2290054650000006E7] returning empty list! this might break things
+[03Aug2025 22:09:33.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Sweet Dreams]
+[03Aug2025 22:10:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [A Seedy Place]
+[03Aug2025 22:10:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Crops of the Wild]
+[03Aug2025 22:10:41.482] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[03Aug2025 22:11:12.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[03Aug2025 22:14:20.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Book of Monsters]
+[03Aug2025 22:18:30.843] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 182.2 μs. 256/264 recipes are parallelized.
+[03Aug2025 22:23:50.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was turned into KFC by Fire Dragon
+[03Aug2025 22:23:50.673] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-22.23.50.dat
+[03Aug2025 22:24:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 22:24:11.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1045.500000, 72.500000, 1483.500000]
+[03Aug2025 22:24:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 22:24:42.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:24:53.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[03Aug2025 22:24:53.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[03Aug2025 22:25:12.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[03Aug2025 22:25:21.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Monster Hunter]
+[03Aug2025 22:25:32.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Ghost
+[03Aug2025 22:25:32.330] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-22.25.32.dat
+[03Aug2025 22:25:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 22:26:01.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -788.500000, 96.500000, 2270.500000]
+[03Aug2025 22:26:04.005] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[03Aug2025 22:26:07.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:26:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 22:29:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Dread Ghoul
+[03Aug2025 22:29:18.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-22.29.18.dat
+[03Aug2025 22:29:22.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Dread Ghoul
+[03Aug2025 22:30:26.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 22:30:33.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -724.500000, 109.500000, 2686.500000]
+[03Aug2025 22:30:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:30:46.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 22:30:46.791] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[03Aug2025 22:31:43.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[03Aug2025 22:31:43.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[03Aug2025 22:33:16.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 9 [Glass] to Ihlak]
+[03Aug2025 22:33:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 1 [Acacia Planks] to Ihlak]
+[03Aug2025 22:33:40.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 1 [Crafting Table] to Ihlak]
+[03Aug2025 22:34:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Fire Dragon
+[03Aug2025 22:34:17.476] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-22.34.17.dat
+[03Aug2025 22:34:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Take Aim]
+[03Aug2025 22:34:34.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 22:34:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -512.500000, 120.500000, 2769.500000]
+[03Aug2025 22:34:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was turned into KFC by Fire Dragon
+[03Aug2025 22:34:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:35:02.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Surfer Rosa]
+[03Aug2025 22:35:07.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 22:35:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Surfer Rosa]
+[03Aug2025 22:37:00.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[03Aug2025 22:37:00.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
