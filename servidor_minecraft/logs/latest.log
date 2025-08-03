@@ -1562,3 +1562,15 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 22:54:33.099] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [03Aug2025 22:57:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
 [03Aug2025 22:57:40.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Best Friends Forever]
+[03Aug2025 22:59:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 23:00:26.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 23:04:05.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed by Witch using magic
+[03Aug2025 23:04:05.685] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.04.05.dat
+[03Aug2025 23:04:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 23:04:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -1237.500000, 96.500000, 2768.500000]
+[03Aug2025 23:04:39.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 23:12:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Not Today, Thank You]
+[03Aug2025 23:14:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:14:27.134] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.14.27.dat
+[03Aug2025 23:14:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:16:10.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
