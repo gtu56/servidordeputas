@@ -4388,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-08-03 23:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-03 22:37:44 +0000"
@@ -4526,6 +4532,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-08-03 23:29:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2025-08-03 23:24:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-08-03 23:01:04 +0000"
@@ -4553,6 +4571,12 @@
   "spartanweaponry:recipes/copper_greatsword": {
     "criteria": {
       "has_copper_ingot": "2025-08-03 23:01:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-03 23:29:07 +0000"
     },
     "done": true
   },
@@ -4745,6 +4769,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-08-03 22:56:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2025-08-03 23:24:11 +0000"
     },
     "done": true
   },

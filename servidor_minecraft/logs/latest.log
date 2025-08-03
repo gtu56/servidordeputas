@@ -1574,3 +1574,36 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 23:14:27.134] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.14.27.dat
 [03Aug2025 23:14:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
 [03Aug2025 23:16:10.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 23:22:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Acquire Hardware]
+[03Aug2025 23:23:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 5 [Cobblestone] to Ihlak]
+[03Aug2025 23:24:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Carbon Footprint]
+[03Aug2025 23:24:25.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[03Aug2025 23:24:25.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[03Aug2025 23:29:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Mine? Mine? Mine?]
+[03Aug2025 23:29:19.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 drowned
+[03Aug2025 23:29:19.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.29.19.dat
+[03Aug2025 23:29:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was incinerated by Fire Dragon
+[03Aug2025 23:29:30.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.29.30.dat
+[03Aug2025 23:30:01.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 23:30:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -201.500000, 72.500000, 388.500000]
+[03Aug2025 23:30:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 23:30:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 23:32:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:32:34.743] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.32.34.dat
+[03Aug2025 23:32:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:32:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 23:33:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:33:24.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.33.24.dat
+[03Aug2025 23:33:24.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:33:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:33:32.084] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.33.32.dat
+[03Aug2025 23:33:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:34:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:34:06.134] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.34.06.dat
+[03Aug2025 23:34:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:34:11.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:34:11.595] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.34.11.dat
+[03Aug2025 23:34:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:34:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:34:21.062] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.34.21.dat
+[03Aug2025 23:34:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]

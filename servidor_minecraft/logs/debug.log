@@ -18891,3 +18891,653 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 23:18:39.027] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [03Aug2025 23:18:39.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2025 23:18:39.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:22:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Acquire Hardware]
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Aug2025 23:23:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Aug2025 23:23:39.011] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[03Aug2025 23:23:39.030] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[03Aug2025 23:23:39.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:23:39.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:23:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Gave 5 [Cobblestone] to Ihlak]
+[03Aug2025 23:24:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Carbon Footprint]
+[03Aug2025 23:24:25.874] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[03Aug2025 23:24:25.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[03Aug2025 23:25:31.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:31.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:31.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:31.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:32.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:32.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:32.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:39.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:39.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:39.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:39.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:41.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:41.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:41.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:41.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:42.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:44.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:44.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:44.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:45.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:45.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:46.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:25:46.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:26:10.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:26:15.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:26:15.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:26:43.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:26:44.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:27:31.726] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:27:31.773] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:27:33.526] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:27:33.570] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:27:33.770] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:27:35.623] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:27:36.073] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:27:36.128] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:27:40.322] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:27:40.469] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:27:41.123] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:27:41.622] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:27:41.622] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:27:42.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:27:42.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[03Aug2025 23:27:43.123] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:27:44.153] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:27:44.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[03Aug2025 23:27:44.522] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:27:46.971] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:27:48.223] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:27:48.223] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:27:48.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:27:48.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:27:53.127] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:27:54.924] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:27:54.924] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 695eda1f-9612-4927-8cdf-23d4fe5f5b39 unwatched ships [37]
+[03Aug2025 23:28:01.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:28:02.324] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:28:02.369] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:28:05.723] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:28:05.970] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:28:06.222] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:28:09.223] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:28:10.723] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:28:11.073] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:28:15.722] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:28:16.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:28:20.522] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:28:22.423] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:28:22.423] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: b01f56b0-894e-4e7c-92e7-0114c393465a unwatched ships [37]
+[03Aug2025 23:28:22.423] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 695eda1f-9612-4927-8cdf-23d4fe5f5b39 unwatched ships [37]
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Aug2025 23:28:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Aug2025 23:28:39.007] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[03Aug2025 23:28:39.018] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[03Aug2025 23:28:39.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:28:39.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:29:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Mine? Mine? Mine?]
+[03Aug2025 23:29:19.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 drowned
+[03Aug2025 23:29:19.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.29.19.dat
+[03Aug2025 23:29:21.583] [Server thread/DEBUG] [twilightforest/]: Player bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30) respawned and received items held in storage
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:29:21.606] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d413c002-8fc3-4083-9a07-97cfc926fd3c watched ships: [37]
+[03Aug2025 23:29:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was incinerated by Fire Dragon
+[03Aug2025 23:29:30.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.29.30.dat
+[03Aug2025 23:29:32.388] [Server thread/DEBUG] [twilightforest/]: Player Ihlak (a5f40337-8065-35c8-b0ce-8012071cc0ad) respawned and received items held in storage
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:29:32.411] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:29:32.412] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e5c90265-1015-4025-823a-223b8e8c2d3d watched ships: [37]
+[03Aug2025 23:30:01.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[03Aug2025 23:30:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to -201.500000, 72.500000, 388.500000]
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:30:08.436] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:30:08.437] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e5c90265-1015-4025-823a-223b8e8c2d3d unwatched ships [37]
+[03Aug2025 23:30:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[03Aug2025 23:30:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d413c002-8fc3-4083-9a07-97cfc926fd3c unwatched ships [37]
+[03Aug2025 23:30:20.582] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e5c90265-1015-4025-823a-223b8e8c2d3d unwatched ships [37]
+[03Aug2025 23:32:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:32:34.743] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.32.34.dat
+[03Aug2025 23:32:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:32:36.391] [Server thread/DEBUG] [twilightforest/]: Player bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30) respawned and received items held in storage
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:32:36.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:32:36.921] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6658656e-6c4b-4da8-8d8d-a4b9b7e40393 watched ships: [37]
+[03Aug2025 23:32:55.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6658656e-6c4b-4da8-8d8d-a4b9b7e40393 unwatched ships [37]
+[03Aug2025 23:32:55.548] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e5c90265-1015-4025-823a-223b8e8c2d3d unwatched ships [37]
+[03Aug2025 23:33:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:33:24.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.33.24.dat
+[03Aug2025 23:33:24.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:33:25.809] [Server thread/DEBUG] [twilightforest/]: Player Ihlak (a5f40337-8065-35c8-b0ce-8012071cc0ad) respawned and received items held in storage
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:33:25.838] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:33:25.839] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 6bb35473-f8cf-4f5f-9c81-60331db9cf8a watched ships: [37]
+[03Aug2025 23:33:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:33:32.084] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.33.32.dat
+[03Aug2025 23:33:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:33:33.346] [Server thread/DEBUG] [twilightforest/]: Player bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30) respawned and received items held in storage
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:33:33.370] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:33:33.371] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 4ea3ea58-0427-41eb-a30d-e9a6255da502 watched ships: [37]
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Aug2025 23:33:39.010] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Aug2025 23:33:39.011] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[03Aug2025 23:33:39.022] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[03Aug2025 23:33:39.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:33:39.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:34:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:34:06.134] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.34.06.dat
+[03Aug2025 23:34:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:34:07.305] [Server thread/DEBUG] [twilightforest/]: Player Ihlak (a5f40337-8065-35c8-b0ce-8012071cc0ad) respawned and received items held in storage
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:34:07.323] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:34:07.324] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 94f1b8e4-65b1-4266-8fa7-ac071fc88cdf watched ships: [37]
+[03Aug2025 23:34:11.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was killed
+[03Aug2025 23:34:11.595] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_03.08.2025-23.34.11.dat
+[03Aug2025 23:34:11.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed bubbly_bubbles69]
+[03Aug2025 23:34:13.184] [Server thread/DEBUG] [twilightforest/]: Player bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30) respawned and received items held in storage
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:34:13.202] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: e14b350c-43f5-42c7-a66e-a7d698073ec0 watched ships: [37]
+[03Aug2025 23:34:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[03Aug2025 23:34:21.062] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_03.08.2025-23.34.21.dat
+[03Aug2025 23:34:21.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[03Aug2025 23:34:22.246] [Server thread/DEBUG] [twilightforest/]: Player Ihlak (a5f40337-8065-35c8-b0ce-8012071cc0ad) respawned and received items held in storage
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768128
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768127
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768128
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768127
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768128
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768129
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768129
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768126
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768127
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768128
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768129
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768130
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768130
+[03Aug2025 23:34:22.269] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768129
+[03Aug2025 23:34:22.270] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791614 : 768130
+[03Aug2025 23:34:22.270] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791617 : 768130
+[03Aug2025 23:34:22.270] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791615 : 768131
+[03Aug2025 23:34:22.270] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1791616 : 768131
+[03Aug2025 23:34:22.270] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: 3b5a5613-dd31-4b29-8552-d515167611c3 watched ships: [37]
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[03Aug2025 23:38:39.006] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[03Aug2025 23:38:39.007] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[03Aug2025 23:38:39.021] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[03Aug2025 23:38:39.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:38:39.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
