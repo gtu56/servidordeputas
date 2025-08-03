@@ -3989,77 +3989,102 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "slept_in_bed": "2025-07-28 03:00:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-28 03:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-28 03:11:54 +0000",
+      "minecraft:spider": "2025-07-28 03:12:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "minecraft:skeleton": "2025-07-28 03:11:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_tag": "2025-07-28 03:12:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_item": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_item": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
-      "log_spam_fixer": "2025-07-28 03:38:24 +0000"
+      "has_item": "2025-07-28 03:12:13 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
@@ -4085,12 +4110,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-28 03:34:33 +0000"
@@ -4109,36 +4128,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-28 03:00:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-07-28 03:11:54 +0000",
-      "minecraft:spider": "2025-07-28 03:12:10 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
@@ -4161,18 +4155,6 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
     "done": true
   },
@@ -4242,12 +4224,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
@@ -4266,45 +4242,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-07-28 03:12:09 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
     },
     "done": true
   },
@@ -4323,18 +4269,6 @@
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-28 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-07-28 03:10:42 +0000"
     },
     "done": true
   },
@@ -4359,12 +4293,6 @@
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-07-28 03:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-07-28 03:11:54 +0000"
     },
     "done": true
   },
