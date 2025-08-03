@@ -369,6 +369,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-27 16:23:27 +0000",
+      "minecraft:taiga": "2025-08-03 22:44:36 +0000",
       "minecraft:sunflower_plains": "2025-07-27 05:59:18 +0000",
       "minecraft:cherry_grove": "2025-07-27 16:25:58 +0000",
       "minecraft:birch_forest": "2025-07-27 05:55:23 +0000",
@@ -389,6 +390,7 @@
       "minecraft:windswept_forest": "2025-07-27 16:42:41 +0000",
       "minecraft:jungle": "2025-07-27 05:48:20 +0000",
       "minecraft:ocean": "2025-07-27 06:26:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-03 22:55:30 +0000",
       "minecraft:windswept_savanna": "2025-07-27 17:03:53 +0000",
       "minecraft:warm_ocean": "2025-07-27 16:54:07 +0000",
       "minecraft:flower_forest": "2025-07-27 05:59:22 +0000",
@@ -2640,9 +2642,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-28 02:53:53 +0000",
+      "potato": "2025-08-03 22:48:25 +0000",
       "cooked_cod": "2025-08-03 22:27:36 +0000",
       "bread": "2025-07-27 06:17:57 +0000",
-      "golden_apple": "2025-07-28 02:57:56 +0000"
+      "golden_apple": "2025-07-28 02:57:56 +0000",
+      "salmon": "2025-08-03 22:48:31 +0000",
+      "cod": "2025-08-03 22:48:44 +0000"
     },
     "done": false
   },
@@ -4328,6 +4333,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-08-03 22:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-03 22:37:44 +0000"
@@ -4394,6 +4405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-03 22:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-03 22:37:44 +0000"
@@ -4403,6 +4420,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-08-03 22:37:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-08-03 22:56:29 +0000"
     },
     "done": true
   },
@@ -4433,6 +4456,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-03 22:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-03 22:56:52 +0000"
     },
     "done": true
   },

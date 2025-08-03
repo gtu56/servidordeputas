@@ -1557,3 +1557,8 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Aug2025 22:41:05.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
 [03Aug2025 22:41:57.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/15000, l='ServerLevel[world]', x=-643.42, y=113.00, z=2922.70] died, message: 'Scribe was slain by Zombie'
 [03Aug2025 22:46:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:49:09.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[03Aug2025 22:52:04.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14925, l='ServerLevel[world]', x=-573.93, y=105.00, z=2970.23] died, message: 'Unemployed hit the ground too hard'
+[03Aug2025 22:54:33.099] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[03Aug2025 22:57:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[03Aug2025 22:57:40.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Best Friends Forever]
