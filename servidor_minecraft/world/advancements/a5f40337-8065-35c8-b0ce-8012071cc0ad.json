@@ -2648,7 +2648,8 @@
       "bread": "2025-07-27 06:17:57 +0000",
       "golden_apple": "2025-07-28 02:57:56 +0000",
       "salmon": "2025-08-03 22:48:31 +0000",
-      "cod": "2025-08-03 22:48:44 +0000"
+      "cod": "2025-08-03 22:48:44 +0000",
+      "carrot": "2025-08-10 20:19:29 +0000"
     },
     "done": false
   },
@@ -4929,77 +4930,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexsmobs:alexsmobs/emu": {
     "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
+      "killed_by": "2025-08-10 20:26:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
     "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
+      "has_yellow_wool": "2025-08-10 20:17:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 20:17:00 +0000"
-    },
-    "done": false
+    "done": true
   },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
@@ -5037,6 +4978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-10 20:11:22 +0000"
@@ -5049,9 +4996,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/yellow_flag": {
+    "criteria": {
+      "has_yellow_flag": "2025-08-10 20:17:24 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2025-08-10 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:17:24 +0000"
     },
     "done": true
   },
@@ -5067,6 +5026,12 @@
     },
     "done": true
   },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-08-10 20:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-10 20:11:22 +0000"
@@ -5079,9 +5044,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-08-10 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-10 20:18:22 +0000"
     },
     "done": true
   },

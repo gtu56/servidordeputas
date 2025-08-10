@@ -3081,6 +3081,12 @@
     },
     "done": true
   },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-08-10 20:22:34 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/steel_basic_shield": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
