@@ -1516,3 +1516,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 18:56:20.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/180, l='ServerLevel[world]', x=-1216.30, y=8.00, z=914.63] died: Corvin the Rotten was shot by Ihlak
 [10Aug2025 18:56:27.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak fell from a high place
 [10Aug2025 18:56:27.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.56.27.dat
+[10Aug2025 18:57:14.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Cave Centipede
+[10Aug2025 18:57:14.752] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.57.14.dat
+[10Aug2025 18:59:27.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[10Aug2025 18:59:59.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[10Aug2025 19:02:38.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[10Aug2025 19:06:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Zombie
+[10Aug2025 19:06:18.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-19.06.18.dat
+[10Aug2025 19:06:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Cave Dweller
+[10Aug2025 19:06:30.195] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-19.06.30.dat
