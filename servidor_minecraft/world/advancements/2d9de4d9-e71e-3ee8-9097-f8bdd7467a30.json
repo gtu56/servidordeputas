@@ -2155,6 +2155,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_longbow": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
@@ -2215,6 +2221,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_throwing_knife": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2230,6 +2242,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2251,9 +2269,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_halberd": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2329,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-08-10 19:20:25 +0000"
@@ -2371,6 +2407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
@@ -2407,6 +2449,12 @@
     },
     "done": true
   },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-08-10 19:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
@@ -2422,6 +2470,12 @@
   "spartanweaponry:recipes/steel_boomerang": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2449,6 +2503,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_heavy_crossbow": "2025-08-10 18:51:21 +0000"
@@ -2461,6 +2521,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_spear": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2470,6 +2536,12 @@
   "spartanweaponry:recipes/steel_saber": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2554,6 +2626,12 @@
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2677,6 +2755,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/steel_nugget": {
     "criteria": {
       "has_steel_nugget": "2025-08-10 19:09:22 +0000"
@@ -2725,6 +2809,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
@@ -2746,6 +2848,18 @@
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-08-10 18:51:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2791,9 +2905,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-08-10 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2827,6 +2959,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2839,9 +2977,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-08-10 19:28:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2875,6 +3025,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
@@ -2890,6 +3046,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-08-10 19:29:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2911,9 +3073,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2932,6 +3106,12 @@
   "spartanweaponry:recipes/steel_glaive": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
@@ -2956,6 +3136,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-08-10 19:39:07 +0000"
     },
     "done": true
   },
