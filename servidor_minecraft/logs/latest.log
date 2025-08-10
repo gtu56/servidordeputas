@@ -1531,3 +1531,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 19:07:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Smart Blasting]
 [10Aug2025 19:15:06.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ihlak lost connection: Disconnected
 [10Aug2025 19:15:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak left the game
+[10Aug2025 19:17:28.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[10Aug2025 19:17:28.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Aug2025 19:17:28.448] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[10Aug2025 19:17:53.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bubbly_bubbles69) moved wrongly! 0.285679127178355
+[10Aug2025 19:17:53.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bubbly_bubbles69) moved wrongly! 0.4810727264837169
+[10Aug2025 19:18:17.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[10Aug2025 19:18:17.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Aug2025 19:18:17.790] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[10Aug2025 19:18:20.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was turned into KFC by Fire Dragon
+[10Aug2025 19:18:20.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-19.18.20.dat
+[10Aug2025 19:20:13.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[10Aug2025 19:26:37.132] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[10Aug2025 19:26:37.306] [Worker-Main-11/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[10Aug2025 19:26:37.483] [Worker-Main-58/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType

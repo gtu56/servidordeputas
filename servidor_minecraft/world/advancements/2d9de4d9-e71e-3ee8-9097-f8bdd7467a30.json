@@ -2301,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-10 19:20:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_parrying_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
@@ -2517,9 +2523,21 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-08-10 19:20:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-10 19:20:25 +0000"
     },
     "done": true
   },
@@ -2556,6 +2574,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-10 19:20:25 +0000"
     },
     "done": true
   },
