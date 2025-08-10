@@ -2642,6 +2642,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-10 18:58:31 +0000",
+      "cooked_mutton": "2025-08-10 20:44:53 +0000",
       "apple": "2025-07-28 02:53:53 +0000",
       "potato": "2025-08-03 22:48:25 +0000",
       "cooked_cod": "2025-08-03 22:27:36 +0000",
@@ -4936,6 +4937,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
     "criteria": {
       "has_yellow_wool": "2025-08-10 20:17:24 +0000"
@@ -4960,6 +4967,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:40:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-08-10 20:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-08-10 20:11:22 +0000"
@@ -4969,6 +4988,18 @@
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-08-10 20:11:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-10 20:40:41 +0000"
     },
     "done": true
   },
@@ -5020,6 +5051,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-10 20:11:22 +0000"
@@ -5029,6 +5066,12 @@
   "ad_astra:ocean_cleanup": {
     "criteria": {
       "oil_bucket": "2025-08-10 20:22:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
     },
     "done": true
   },
@@ -5050,15 +5093,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-08-10 20:11:22 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:40:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-08-10 20:18:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-08-10 20:46:31 +0000"
     },
     "done": true
   },

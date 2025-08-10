@@ -1593,3 +1593,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 20:26:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [It's an Emu!!!]
 [10Aug2025 20:26:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Emu
 [10Aug2025 20:26:55.547] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-20.26.55.dat
+[10Aug2025 20:29:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Rotten to the Core]
+[10Aug2025 20:32:14.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/34918, l='ServerLevel[world]', x=-2054.30, y=74.25, z=1032.28] died, message: 'Farmer was slain by Zombie'
+[10Aug2025 20:32:37.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/35009, l='ServerLevel[world]', x=-2061.30, y=73.02, z=1019.07] died, message: 'Scribe was slain by Zombie'
+[10Aug2025 20:32:45.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34916, l='ServerLevel[world]', x=-2060.50, y=75.50, z=1019.20] died, message: 'Unemployed was slain by Zombie Villager'
+[10Aug2025 20:32:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[10Aug2025 20:33:19.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34915, l='ServerLevel[world]', x=-2060.50, y=75.50, z=1019.20] died, message: 'Unemployed was slain by Zombie'
+[10Aug2025 20:33:55.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/35191, l='ServerLevel[world]', x=-2053.84, y=72.00, z=1080.70] died, message: 'Scribe was slain by Zombie'
+[10Aug2025 20:34:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Stay Out of my Peripheral!]
+[10Aug2025 20:35:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [We do a little trolling...]
+[10Aug2025 20:35:20.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Kangaroo
+[10Aug2025 20:35:20.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-20.35.20.dat
+[10Aug2025 20:35:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[10Aug2025 20:45:42.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
+[10Aug2025 20:46:28.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Sea? Not a Problem]
