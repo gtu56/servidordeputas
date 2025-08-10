@@ -1478,3 +1478,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 18:34:00.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [10Aug2025 18:34:09.248] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.341 ms. 3934/4121 recipes are parallelized.
 [10Aug2025 18:34:30.780] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[10Aug2025 18:37:20.728] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[10Aug2025 18:37:51.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was killed
+[10Aug2025 18:37:51.110] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.37.51.dat
+[10Aug2025 18:37:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Killed Ihlak]
+[10Aug2025 18:39:06.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Under Pressure]
+[10Aug2025 18:40:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bubbly_bubbles69> toni.fehrenbach
+[10Aug2025 18:41:27.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bubbly_bubbles69 lost connection: Disconnected
+[10Aug2025 18:41:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 left the game
+[10Aug2025 18:41:27.344] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Aug2025 18:41:34.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bubbly_bubbles69[/127.232.151.80:51693] logged in with entity id 3222 at (-1241.5283238887787, 91.13186281127855, 979.7971470579505)
+[10Aug2025 18:41:34.865] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player bubbly_bubbles69
+[10Aug2025 18:41:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 joined the game
+[10Aug2025 18:41:34.957] [Server thread/INFO] [Jade/]: Syncing config to bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30)

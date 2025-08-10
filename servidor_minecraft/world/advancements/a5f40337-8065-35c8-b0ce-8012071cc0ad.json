@@ -4778,5 +4778,11 @@
     },
     "done": true
   },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2025-08-10 18:39:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
