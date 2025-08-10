@@ -1191,7 +1191,8 @@
       "minecraft:spider": "2025-08-03 22:52:56 +0000",
       "minecraft:creeper": "2025-08-03 22:27:36 +0000",
       "minecraft:witch": "2025-08-03 23:08:34 +0000",
-      "minecraft:zombie": "2025-08-03 22:25:21 +0000"
+      "minecraft:zombie": "2025-08-03 22:25:21 +0000",
+      "minecraft:drowned": "2025-08-10 20:11:54 +0000"
     },
     "done": false
   },
@@ -2191,6 +2192,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-10 20:07:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
@@ -2236,6 +2243,12 @@
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:07:19 +0000"
     },
     "done": true
   },
@@ -2296,6 +2309,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-08-10 20:11:22 +0000"
     },
     "done": true
   },
@@ -2660,6 +2679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-10 20:04:51 +0000"
@@ -2681,6 +2706,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-08-10 19:29:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-10 20:07:39 +0000"
     },
     "done": true
   },
@@ -2834,6 +2865,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/yellow_flag": {
+    "criteria": {
+      "has_yellow_flag": "2025-08-10 20:07:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
@@ -2843,6 +2880,12 @@
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-10 20:11:22 +0000"
     },
     "done": true
   },
@@ -2921,6 +2964,12 @@
   "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:07:19 +0000"
     },
     "done": true
   },
@@ -3209,6 +3258,12 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-10 20:07:19 +0000"
     },
     "done": true
   },

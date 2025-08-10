@@ -1572,3 +1572,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 20:06:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
 [10Aug2025 20:06:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [My Name is Nobody]
 [10Aug2025 20:07:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [It's an Emu!!!]
+[10Aug2025 20:10:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was impaled by Sargent the Soaked
+[10Aug2025 20:10:42.840] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-20.10.42.dat
+[10Aug2025 20:11:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[10Aug2025 20:11:54.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/26287, l='ServerLevel[world]', x=-1718.49, y=66.00, z=624.55] died: Sargent the Soaked was slain by bubbly_bubbles69
+[10Aug2025 20:12:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Ghost
+[10Aug2025 20:12:00.388] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-20.12.00.dat
+[10Aug2025 20:12:24.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported bubbly_bubbles69 to Ihlak]
+[10Aug2025 20:12:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Ghost
+[10Aug2025 20:12:59.387] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-20.12.59.dat
+[10Aug2025 20:13:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Ghost
+[10Aug2025 20:13:11.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-20.13.11.dat
+[10Aug2025 20:13:34.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
+[10Aug2025 20:18:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Who You Gonna Call?]
