@@ -2329,6 +2329,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 19:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-08-10 19:29:23 +0000"
@@ -2359,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-10 19:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
@@ -2374,6 +2386,12 @@
   "spartanweaponry:recipes/steel_parrying_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 19:56:53 +0000"
     },
     "done": true
   },
@@ -2472,6 +2490,13 @@
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-08-10 19:55:07 +0000",
+      "minecraft:cow": "2025-08-10 19:54:25 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/copper_dagger": {
     "criteria": {
@@ -2611,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-10 19:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2638,6 +2669,12 @@
   "spartanweaponry:recipes/steel_katana": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-10 19:56:53 +0000"
     },
     "done": true
   },
@@ -2812,6 +2849,12 @@
   "spartanweaponry:recipes/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 19:56:53 +0000"
     },
     "done": true
   },
@@ -3136,6 +3179,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-08-10 19:56:53 +0000"
     },
     "done": true
   },
