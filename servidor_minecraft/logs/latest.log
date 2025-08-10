@@ -1491,3 +1491,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 18:41:34.865] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player bubbly_bubbles69
 [10Aug2025 18:41:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 joined the game
 [10Aug2025 18:41:34.957] [Server thread/INFO] [Jade/]: Syncing config to bubbly_bubbles69 (2d9de4d9-e71e-3ee8-9097-f8bdd7467a30)
+[10Aug2025 18:48:07.894] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Aug2025 18:48:30.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Stone Age]
+[10Aug2025 18:49:30.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[10Aug2025 18:49:31.397] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[10Aug2025 18:49:37.532] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[10Aug2025 18:49:37.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Aug2025 18:49:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Corvin the Rotten
+[10Aug2025 18:49:55.935] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-18.49.55.dat
+[10Aug2025 18:50:00.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak withered away whilst fighting Corvin the Rotten
+[10Aug2025 18:50:00.451] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.50.00.dat
+[10Aug2025 18:51:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [The Bender of the 15th Century]
+[10Aug2025 18:52:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 withered away whilst fighting Corvin the Rotten
+[10Aug2025 18:52:47.948] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-18.52.47.dat
+[10Aug2025 18:53:11.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Corvin the Rotten
+[10Aug2025 18:53:11.245] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.53.11.dat
+[10Aug2025 18:53:46.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was blown up by Creeper
+[10Aug2025 18:53:46.654] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.53.46.dat
+[10Aug2025 18:54:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
+[10Aug2025 18:55:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Corvin the Rotten
+[10Aug2025 18:55:05.084] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-18.55.05.dat
+[10Aug2025 18:56:20.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[10Aug2025 18:56:20.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[10Aug2025 18:56:20.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/180, l='ServerLevel[world]', x=-1216.30, y=8.00, z=914.63] died: Corvin the Rotten was shot by Ihlak
+[10Aug2025 18:56:27.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak fell from a high place
+[10Aug2025 18:56:27.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-18.56.27.dat
