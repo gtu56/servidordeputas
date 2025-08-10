@@ -2137,9 +2137,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_spear": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:04:27 +0000"
     },
     "done": true
   },
@@ -2311,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-10 20:04:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
@@ -2320,6 +2338,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-10 20:04:12 +0000"
     },
     "done": true
   },
@@ -2407,6 +2431,12 @@
     },
     "done": true
   },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
@@ -2422,6 +2452,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-08-10 18:48:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:04:06 +0000"
     },
     "done": true
   },
@@ -2482,6 +2518,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-08-10 20:04:51 +0000"
     },
     "done": true
   },
@@ -2606,9 +2648,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-10 20:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-10 20:04:51 +0000"
     },
     "done": true
   },
@@ -2774,15 +2828,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_heavy_crossbow": "2025-08-10 18:51:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-10 20:06:47 +0000"
     },
     "done": true
   },
@@ -2888,6 +2960,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-10 20:03:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-08-10 18:51:46 +0000"
@@ -2897,6 +2975,12 @@
   "spartanweaponry:recipes/copper_lance": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-08-10 20:04:51 +0000"
     },
     "done": true
   },
@@ -2927,6 +3011,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-10 20:04:51 +0000"
     },
     "done": true
   },
@@ -3050,6 +3140,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-10 20:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-10 19:00:37 +0000"
@@ -3068,6 +3170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:04:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
@@ -3077,6 +3185,12 @@
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-10 20:04:27 +0000"
     },
     "done": true
   },
@@ -3119,6 +3233,12 @@
   "spartanweaponry:recipes/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-08-10 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-10 20:04:06 +0000"
     },
     "done": true
   },

@@ -4779,81 +4779,87 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ad_astra:under_pressure": {
     "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
+      "has_compressor": "2025-08-10 18:39:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
+      "has_the_recipe": "2025-08-10 18:46:41 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-10 19:15:01 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-10 18:54:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-08-10 19:00:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep_smithing": {
+    "criteria": {
+      "has_sheep": "2025-08-10 19:04:28 +0000"
     },
     "done": true
   },
@@ -4869,33 +4875,9 @@
     },
     "done": true
   },
-  "ad_astra:under_pressure": {
-    "criteria": {
-      "has_compressor": "2025-08-10 18:39:06 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/iron_rod": {
     "criteria": {
       "has_iron_rod": "2025-08-10 19:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sponge_smithing": {
-    "criteria": {
-      "has_sponge": "2025-08-10 19:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
     },
     "done": true
   },
@@ -4923,39 +4905,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
-    "criteria": {
-      "has_item": "2025-08-10 19:07:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2025-08-10 19:07:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-08-10 18:46:41 +0000"
     },
     "done": true
   },
@@ -4965,33 +4917,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
     "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sheep_smithing": {
-    "criteria": {
-      "has_sheep": "2025-08-10 19:04:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-08-10 18:54:20 +0000"
+      "has_item": "2025-08-10 19:07:45 +0000"
     },
     "done": true
   },

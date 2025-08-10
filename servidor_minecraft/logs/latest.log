@@ -1559,3 +1559,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 19:46:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Fire Dragon
 [10Aug2025 19:46:40.482] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-19.46.40.dat
 [10Aug2025 19:54:25.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [The Parrots and the Bats]
+[10Aug2025 19:59:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Cachalot Whale
+[10Aug2025 19:59:12.686] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-19.59.12.dat
+[10Aug2025 20:00:53.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/24782, l='ServerLevel[world]', x=-1649.50, y=54.00, z=973.50]
+[10Aug2025 20:01:38.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 was slain by Cyclops
+[10Aug2025 20:01:38.988] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-20.01.38.dat
+[10Aug2025 20:03:44.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [Mine? Mine? Mine?]
+[10Aug2025 20:06:19.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ihlak[/127.186.80.73:34697] logged in with entity id 26886 at (-1239.3400150164962, 93.04314146767138, 967.254486553371)
+[10Aug2025 20:06:19.018] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ihlak
+[10Aug2025 20:06:19.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak joined the game
+[10Aug2025 20:06:19.074] [Server thread/INFO] [Jade/]: Syncing config to Ihlak (a5f40337-8065-35c8-b0ce-8012071cc0ad)
+[10Aug2025 20:06:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Teleported Ihlak to bubbly_bubbles69]
+[10Aug2025 20:06:47.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [My Name is Nobody]
+[10Aug2025 20:07:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bubbly_bubbles69 has made the advancement [It's an Emu!!!]
