@@ -1525,3 +1525,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 19:06:18.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bubbly_bubbles69 with unique ID travelersbackpack.standard_10.08.2025-19.06.18.dat
 [10Aug2025 19:06:30.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak was slain by Cave Dweller
 [10Aug2025 19:06:30.195] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Ihlak with unique ID travelersbackpack.bat_10.08.2025-19.06.30.dat
+[10Aug2025 19:07:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Creative Mode]
+[10Aug2025 19:07:23.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ihlak: Set own game mode to Survival Mode]
+[10Aug2025 19:07:30.205] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 215.2 μs. 256/264 recipes are parallelized.
+[10Aug2025 19:07:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak has made the advancement [Smart Blasting]
+[10Aug2025 19:15:06.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ihlak lost connection: Disconnected
+[10Aug2025 19:15:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ihlak left the game
