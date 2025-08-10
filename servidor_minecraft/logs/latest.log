@@ -1545,3 +1545,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [10Aug2025 19:26:37.132] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [10Aug2025 19:26:37.306] [Worker-Main-11/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
 [10Aug2025 19:26:37.483] [Worker-Main-58/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[10Aug2025 19:27:58.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[10Aug2025 19:28:15.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of bubbly_bubbles69) moved wrongly! 0.30217953600788405
+[10Aug2025 19:29:43.006] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[10Aug2025 19:30:19.621] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Aug2025 19:30:24.939] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[10Aug2025 19:30:37.310] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes

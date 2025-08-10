@@ -375,11 +375,15 @@
       "minecraft:beach": "2025-08-03 22:08:13 +0000",
       "minecraft:dark_forest": "2025-08-03 22:36:59 +0000",
       "minecraft:river": "2025-08-03 22:05:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-10 19:27:55 +0000",
+      "minecraft:stony_shore": "2025-08-10 19:36:48 +0000",
       "minecraft:grove": "2025-08-03 22:26:43 +0000",
       "minecraft:jagged_peaks": "2025-08-03 22:29:11 +0000",
       "minecraft:forest": "2025-08-03 21:54:50 +0000",
+      "minecraft:desert": "2025-08-10 19:33:07 +0000",
       "minecraft:ocean": "2025-08-03 22:09:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-03 22:57:31 +0000",
+      "minecraft:warm_ocean": "2025-08-10 19:30:30 +0000",
       "minecraft:flower_forest": "2025-08-03 23:27:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-03 22:06:19 +0000",
       "minecraft:meadow": "2025-08-03 22:28:01 +0000",
@@ -2181,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-10 19:33:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2235,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_halberd": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
@@ -2244,6 +2260,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-10 19:33:49 +0000"
     },
     "done": true
   },
@@ -2274,6 +2296,12 @@
   "spartanweaponry:recipes/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-08-10 19:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
     },
     "done": true
   },
@@ -2370,6 +2398,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-10 19:28:09 +0000"
     },
     "done": true
   },
@@ -2493,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2544,6 +2584,12 @@
   "spartanweaponry:recipes/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
     },
     "done": true
   },
@@ -2655,6 +2701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-10 19:16:28 +0000"
@@ -2739,6 +2791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-10 19:33:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2781,6 +2839,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-10 19:28:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-10 18:48:41 +0000"
@@ -2799,6 +2863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-08-10 19:33:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
@@ -2814,6 +2884,12 @@
   "spartanweaponry:recipes/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2025-08-10 18:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-08-10 19:29:23 +0000"
     },
     "done": true
   },
